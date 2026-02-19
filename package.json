@@ -1,0 +1,16 @@
+{
+  "name": "aws-sdk-ts",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "ts-node s3/list_bucket.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
