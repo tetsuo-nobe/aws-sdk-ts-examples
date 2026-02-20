@@ -1,0 +1,278 @@
+[
+  {
+    "orderId": "ORD-20260220-001",
+    "customerId": "CUST-10001",
+    "customerName": "山田太郎",
+    "items": [
+      {
+        "productId": "PROD-001",
+        "productName": "ノートパソコン",
+        "quantity": 1,
+        "price": 120000
+      },
+      {
+        "productId": "PROD-002",
+        "productName": "ワイヤレスマウス",
+        "quantity": 2,
+        "price": 3000
+      }
+    ],
+    "totalAmount": 126000,
+    "orderDate": "2026-02-20T10:30:00Z",
+    "shippingAddress": {
+      "postalCode": "100-0001",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "address": "千代田1-1-1"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-002",
+    "customerId": "CUST-10002",
+    "customerName": "佐藤花子",
+    "items": [
+      {
+        "productId": "PROD-003",
+        "productName": "スマートフォン",
+        "quantity": 1,
+        "price": 89000
+      }
+    ],
+    "totalAmount": 89000,
+    "orderDate": "2026-02-20T11:15:00Z",
+    "shippingAddress": {
+      "postalCode": "150-0001",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "address": "渋谷2-2-2"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-003",
+    "customerId": "CUST-10003",
+    "customerName": "鈴木一郎",
+    "items": [
+      {
+        "productId": "PROD-004",
+        "productName": "ワイヤレスイヤホン",
+        "quantity": 1,
+        "price": 15000
+      },
+      {
+        "productId": "PROD-005",
+        "productName": "スマホケース",
+        "quantity": 1,
+        "price": 2000
+      },
+      {
+        "productId": "PROD-006",
+        "productName": "保護フィルム",
+        "quantity": 2,
+        "price": 1000
+      }
+    ],
+    "totalAmount": 19000,
+    "orderDate": "2026-02-20T12:00:00Z",
+    "shippingAddress": {
+      "postalCode": "530-0001",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "address": "梅田3-3-3"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-004",
+    "customerId": "CUST-10004",
+    "customerName": "田中美咲",
+    "items": [
+      {
+        "productId": "PROD-007",
+        "productName": "タブレット",
+        "quantity": 1,
+        "price": 65000
+      },
+      {
+        "productId": "PROD-008",
+        "productName": "タブレットスタンド",
+        "quantity": 1,
+        "price": 3500
+      }
+    ],
+    "totalAmount": 68500,
+    "orderDate": "2026-02-20T13:20:00Z",
+    "shippingAddress": {
+      "postalCode": "460-0001",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "address": "栄4-4-4"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-005",
+    "customerId": "CUST-10005",
+    "customerName": "高橋健太",
+    "items": [
+      {
+        "productId": "PROD-009",
+        "productName": "外付けSSD 1TB",
+        "quantity": 2,
+        "price": 12000
+      }
+    ],
+    "totalAmount": 24000,
+    "orderDate": "2026-02-20T14:45:00Z",
+    "shippingAddress": {
+      "postalCode": "810-0001",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "address": "天神5-5-5"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-006",
+    "customerId": "CUST-10006",
+    "customerName": "伊藤由美",
+    "items": [
+      {
+        "productId": "PROD-010",
+        "productName": "Webカメラ",
+        "quantity": 1,
+        "price": 8000
+      },
+      {
+        "productId": "PROD-011",
+        "productName": "マイク付きヘッドセット",
+        "quantity": 1,
+        "price": 6000
+      },
+      {
+        "productId": "PROD-012",
+        "productName": "USBハブ",
+        "quantity": 1,
+        "price": 2500
+      }
+    ],
+    "totalAmount": 16500,
+    "orderDate": "2026-02-20T15:10:00Z",
+    "shippingAddress": {
+      "postalCode": "060-0001",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "address": "大通6-6-6"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-007",
+    "customerId": "CUST-10007",
+    "customerName": "渡辺誠",
+    "items": [
+      {
+        "productId": "PROD-013",
+        "productName": "ゲーミングキーボード",
+        "quantity": 1,
+        "price": 18000
+      },
+      {
+        "productId": "PROD-014",
+        "productName": "ゲーミングマウス",
+        "quantity": 1,
+        "price": 12000
+      }
+    ],
+    "totalAmount": 30000,
+    "orderDate": "2026-02-20T16:30:00Z",
+    "shippingAddress": {
+      "postalCode": "980-0001",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "address": "一番町7-7-7"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-008",
+    "customerId": "CUST-10008",
+    "customerName": "中村さくら",
+    "items": [
+      {
+        "productId": "PROD-015",
+        "productName": "モニター 27インチ",
+        "quantity": 1,
+        "price": 35000
+      }
+    ],
+    "totalAmount": 35000,
+    "orderDate": "2026-02-20T17:00:00Z",
+    "shippingAddress": {
+      "postalCode": "730-0001",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "address": "紙屋町8-8-8"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-009",
+    "customerId": "CUST-10009",
+    "customerName": "小林大輔",
+    "items": [
+      {
+        "productId": "PROD-016",
+        "productName": "プリンター",
+        "quantity": 1,
+        "price": 25000
+      },
+      {
+        "productId": "PROD-017",
+        "productName": "インクカートリッジセット",
+        "quantity": 2,
+        "price": 5000
+      },
+      {
+        "productId": "PROD-018",
+        "productName": "コピー用紙 500枚",
+        "quantity": 3,
+        "price": 800
+      }
+    ],
+    "totalAmount": 37400,
+    "orderDate": "2026-02-20T18:15:00Z",
+    "shippingAddress": {
+      "postalCode": "220-0001",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "address": "みなとみらい9-9-9"
+    }
+  },
+  {
+    "orderId": "ORD-20260220-010",
+    "customerId": "CUST-10010",
+    "customerName": "加藤真理子",
+    "items": [
+      {
+        "productId": "PROD-019",
+        "productName": "ノートPCスタンド",
+        "quantity": 1,
+        "price": 4500
+      },
+      {
+        "productId": "PROD-020",
+        "productName": "ワイヤレス充電器",
+        "quantity": 2,
+        "price": 3500
+      },
+      {
+        "productId": "PROD-021",
+        "productName": "LANケーブル 5m",
+        "quantity": 1,
+        "price": 1200
+      }
+    ],
+    "totalAmount": 12700,
+    "orderDate": "2026-02-20T19:00:00Z",
+    "shippingAddress": {
+      "postalCode": "600-0001",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "address": "四条通10-10-10"
+    }
+  }
+]
