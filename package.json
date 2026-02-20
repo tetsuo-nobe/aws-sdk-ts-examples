@@ -6,9 +6,11 @@
     "start": "ts-node s3/list_bucket.ts"
   },
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.0.0",
     "@aws-sdk/client-s3": "^3.0.0",
     "@aws-sdk/lib-storage": "^3.994.0",
-    "@aws-sdk/s3-request-presigner": "^3.994.0"
+    "@aws-sdk/s3-request-presigner": "^3.994.0",
+    "@aws-sdk/util-dynamodb": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
