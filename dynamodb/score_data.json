@@ -1,0 +1,12 @@
+[
+    {"user_id": 1, "game_id": "G001", "score": 1000, "life": 1},
+    {"user_id": 1, "game_id": "G002", "score": 2000, "life": 2},
+    {"user_id": 1, "game_id": "G003", "score": 3000, "life": 3},
+    {"user_id": 2, "game_id": "G001", "score": 1100, "life": 2},
+    {"user_id": 2, "game_id": "G002", "score": 1200, "life": 1},
+    {"user_id": 2, "game_id": "G003", "score": 1300, "life": 3},
+    {"user_id": 3, "game_id": "G001", "score": 3100, "life": 3},
+    {"user_id": 3, "game_id": "G002", "score": 3200, "life": 2},
+    {"user_id": 3, "game_id": "G003", "score": 3300, "life": 1},
+    {"user_id": 3, "game_id": "G004", "score": 3400, "life": 2}
+  ]
